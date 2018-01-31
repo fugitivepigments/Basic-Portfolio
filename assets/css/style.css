@@ -1,56 +1,40 @@
-body {
-  padding: 0;
-  margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 18px;
-  line-height: 150%;
-  color: #333;
-  background: #efeee7;
-}
-
-header {
-  background: #d21034;
-}
-
 h1 {
-  padding: 20px 0;
-  margin: 0;
-  margin-bottom: 20px;
-  font-size: 28px;
-  color: #eee;
-  text-align: center;
-  background: #333;
-}
-
-h2 {
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
   font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
 }
-
-a {
-  color: #d21034;
+h3 {
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.4px;
 }
-
-.container {
-  width: 960px;
-  margin: 0 auto;
+p {
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
 }
-
-#main-bio,
-#contact-info,
-#bio-image {
-  float: left;
+blockquote {
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
 }
-
-#main-bio {
-  width: 70%;
-}
-
-#contact-info {
-  width: 30%;
-}
-
-#bio-image {
-  width: 200px;
-  height: 200px;
-  margin-right: 20px;
+pre {
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
 }
